@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Nuevas pizzas todas las semanas</title>
+  <link>https://pizzeriajuancarlos.com</link>
+  <description>Conoce todas las novedades de la pizzería.</description>
+  <item>
+    <title>Pizza de junio</title>
+    <link>https://pizzeria-1b599.web.app/containers/Products/Products.html#Masa_finissima</link>
+    <description>Los mejores ingredientes en esta lista.</description>
+  </item>
+  <item>
+    <title>Abrimos nueva pizzería</title>
+    <link>https://pizzeria-1b599.web.app/containers/Team/Team.html</link>
+    <description>Conoce a la familia de la pizzería.</description>
+  </item>
+</channel>
+
+</rss>
