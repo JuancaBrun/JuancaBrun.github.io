@@ -5,16 +5,17 @@
   <title>Nuevas pizzas todas las semanas</title>
   <link>https://pizzeriajuancarlos.com</link>
   <description>Conoce todas las novedades de la pizzería.</description>
-  <item>
-    <title>Pizza de junio</title>
-    <author>Juan Carlos Brun</author>
-  <category>Restaurante</category>
-  <enclosure>
   <image>
   <url>https://pizzeriajuancarlos.com/media/pizzeria-local.jpg</url>
   <title>Nueva Pizzería</title>
   <link>https://pizzeriajuancarlos.com</link>
 </image>
+  <item>
+    <title>Pizza de junio</title>
+    <author>Juan Carlos Brun</author>
+  <category>Restaurante</category>
+  <enclosure>
+  
   </enclosure>
     <link>https://pizzeria-1b599.web.app/containers/Products/Products.html#Masa_finissima</link>
     <description>Los mejores ingredientes en esta lista.</description>
