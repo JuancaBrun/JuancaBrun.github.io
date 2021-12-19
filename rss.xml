@@ -5,7 +5,11 @@
   <title>Nuevas pizzas todas las semanas</title>
   <author>Juan Carlos Brun</author>
   <category>Restaurante</category>
-  <image>https://pizzeriajuancarlos.com/media/pizzeria-local.jpg</image>
+  <image>
+  <url>https://pizzeriajuancarlos.com/media/pizzeria-local.jpg</url>
+  <title>Nueva Pizzería</title>
+  <link>https://pizzeriajuancarlos.com</link>
+</image>
   <link>https://pizzeriajuancarlos.com</link>
   <description>Conoce todas las novedades de la pizzería.</description>
   <item>
@@ -17,7 +21,11 @@
     <title>Abrimos nueva pizzería</title>
     <author>Juan Carlos Brun</author>
     <category>Novedades</category>
-    <image>https://pizzeriajuancarlos.com/media/noticia2.jpg</image>
+    <image>
+  <url>https://pizzeriajuancarlos.com/media/noticia2.jpg</url>
+  <title>Novedades 2021</title>
+  <link>https://pizzeriajuancarlos.com</link>
+</image>
     <link>https://pizzeria-1b599.web.app/containers/Team/Team.html</link>
     <description>Conoce a la familia de la pizzería.</description>
   </item>
